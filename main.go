@@ -45,7 +45,7 @@ func hello(w http.ResponseWriter, r *http.Request) {
 	log.Printf("Serving request: %s", r.URL.Path)
 	host, _ := os.Hostname()
 <<<<<<< HEAD
-	fmt.Fprintf(w, "Hello, world! fixed code 2ice\n")
+	fmt.Fprintf(w, "Hello, world! fixed code 3ice\n")
 =======
 	fmt.Fprintf(w, "Hello, world! Fixed code\n")
 >>>>>>> 993ac7a292e365952f84730179cb1c9b402cc497
