@@ -1,7 +1,7 @@
 # Hello Application example
 
 This example shows how to build and deploy a containerized Go web server
-application using [Kubernetes](https://kubernetes.io).
+application using [Kubernetes](https://kubernetes.io). haha
 
 Visit https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
 to follow the tutorial and deploy this application on [Google Kubernetes
